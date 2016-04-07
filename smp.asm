@@ -1,7 +1,6 @@
 name "progr_SMP"
 INCLUDE 'emu8086.inc'  
 
-
 org 100h
 
 lat dw ?
